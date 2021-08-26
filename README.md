@@ -4,7 +4,7 @@
 - [ ] Recursive Data Structure
 - [x] 운동하기
 - [ ] 명지일자리 센터 보고서 준비
-- [] 상담신청
+- [x] 상담신청
 
 
 
