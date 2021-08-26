@@ -1,6 +1,4 @@
 # TIL TODO
-
-
 ## ✅2021/08/26(목)
 
 - [ ] Recursive Data Structure
